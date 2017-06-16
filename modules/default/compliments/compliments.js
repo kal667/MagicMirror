@@ -12,22 +12,22 @@ Module.register("compliments", {
 	defaults: {
 		compliments: {
 			anytime: [
-				"Hey there sexy!"
+				"kal & eva 4 ever"
 			],
 			morning: [
-				"Good morning, handsome!",
-				"Enjoy your day!",
-				"How was your sleep?"
+				"Good morning, kal!",
+				"Make today your bitch!",
+				"COFFEE!!"
 			],
 			afternoon: [
-				"Hello, beauty!",
-				"You look sexy!",
-				"Looking good today!"
+				"M'Lord",
+				"PRODUCTIVITY!",
+				"Don't be a jabroni"
 			],
 			evening: [
-				"Wow, you look hot!",
-				"You look nice!",
-				"Hi, sexy!"
+				"Hey-o! What's up, bitches?",
+				"Time for beers??",
+				"Hello there, Rage"
 			]
 		},
 		updateInterval: 30000,

@@ -1,0 +1,86 @@
+
+> magicmirror@2.1.1 start /home/pi/MagicMirror
+> sh run-start.sh
+
+Starting MagicMirror: v2.1.1
+Loading config ...
+Loading module helpers ...
+No helper found for module: alert.
+Initializing new module helper ...
+Module helper loaded: updatenotification
+No helper found for module: clock.
+No helper found for module: compliments.
+No helper found for module: currentweather.
+No helper found for module: weatherforecast.
+Initializing new module helper ...
+Module helper loaded: newsfeed
+No helper found for module: MMM-DCMetroTrainTimes.
+All module helpers loaded.
+Starting server on port 8080 ... 
+Starting server op port 8080 ... 
+Server started ...
+Connecting socket for: updatenotification
+Connecting socket for: newsfeed
+Starting module: newsfeed
+Sockets connected & modules started ...
+Launching application.
+Create new news fetcher for url: http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml - Interval: 300000
+Use existing news fetcher for url: http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml
+Use existing news fetcher for url: http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml
+Use existing news fetcher for url: http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml
+Use existing news fetcher for url: http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml
+Use existing news fetcher for url: http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml
+Use existing news fetcher for url: http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml
+Use existing news fetcher for url: http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml
+Access denied to IP address: 192.168.1.176
+Access denied to IP address: 192.168.1.176
+Use existing news fetcher for url: http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml
+Access denied to IP address: 192.168.1.176
+Access denied to IP address: 192.168.1.176
+Access denied to IP address: 192.168.1.176
+Access denied to IP address: 192.168.1.176
+Use existing news fetcher for url: http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml
+Access denied to IP address: 192.168.1.176
+Access denied to IP address: 192.168.1.176
+Use existing news fetcher for url: http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml
+Access denied to IP address: 192.168.1.176
+Access denied to IP address: 192.168.1.176
+Access denied to IP address: 192.168.1.176
+Access denied to IP address: 192.168.1.176
+Use existing news fetcher for url: http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml
+Access denied to IP address: 192.168.1.176
+Access denied to IP address: 192.168.1.176
+Access denied to IP address: 192.168.1.176
+Access denied to IP address: 192.168.1.176
+Access denied to IP address: 192.168.1.176
+Access denied to IP address: 192.168.1.176
+Use existing news fetcher for url: http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml
+Access denied to IP address: 192.168.1.176
+Access denied to IP address: 192.168.1.176
+Access denied to IP address: 192.168.1.176
+Access denied to IP address: 192.168.1.176
+Access denied to IP address: 192.168.1.176
+Access denied to IP address: 192.168.1.176
+Access denied to IP address: 192.168.1.176
+Access denied to IP address: 192.168.1.176
+Access denied to IP address: 192.168.1.176
+Access denied to IP address: 192.168.1.176
+Use existing news fetcher for url: http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml
+Access denied to IP address: 192.168.1.176
+Access denied to IP address: 192.168.1.176
+Access denied to IP address: 192.168.1.176
+Access denied to IP address: 192.168.1.176
+Access denied to IP address: 192.168.1.176
+Access denied to IP address: 192.168.1.176
+Access denied to IP address: 192.168.1.176
+Access denied to IP address: 192.168.1.176
+Use existing news fetcher for url: http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml
+Access denied to IP address: 192.168.1.176
+Access denied to IP address: 192.168.1.176
+Access denied to IP address: 192.168.1.176
+Access denied to IP address: 192.168.1.176
+Access denied to IP address: 192.168.1.176
+Access denied to IP address: 192.168.1.176
+Access denied to IP address: 192.168.1.176
+Access denied to IP address: 192.168.1.176
+Access denied to IP address: 192.168.1.198
